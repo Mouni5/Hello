@@ -97,7 +97,7 @@ h3 {
 
 p, .left {
     line-height: 2;
-    text-align: center;
+    text-align: left;
     margin-left: 15px;
 }
 
@@ -111,10 +111,10 @@ p, .left {
     margin-top: -40px;
     padding-left: 150px;
 }
-/*.bottom{
+.bottom{
  margin-top: -60px; 
  padding-left: 200px;
-}*/
+}
 a:active {
  color: red;
 }
